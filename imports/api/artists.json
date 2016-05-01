@@ -1,0 +1,10 @@
+[
+    { name: '2MANYDJS', start: 0, end: 500 },
+    { name: 'A$AP ROCKY', start: 0, end: 1000 },
+    { name: 'AC SLATER', start: 0, end: 1500 },
+ 	{ name: 'ACTIVE SUN', start: 400, end: 1000 },
+ 	{ name: 'ADAM BEYER B2B IDA ENGBERG', start: 501, end: 1200 },
+ 	{ name: 'AFTA-1', start: 1500, end: 2000 },
+ 	{ name: 'ALESSIA CARA', start: 1300, end: 1800 },
+ 	{ name: 'ALGIERS', start: 1900, end: 2100 }
+ ]
